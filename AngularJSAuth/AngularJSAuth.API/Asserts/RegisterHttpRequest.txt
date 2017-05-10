@@ -1,0 +1,10 @@
+﻿POST http://localhost:53447/api/account/register HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:53447
+Content-Length: 92
+
+{
+  "userName": "Taiseer",
+  "password": "SuperPass",
+  "confirmPassword": "SuperPass"
+}
