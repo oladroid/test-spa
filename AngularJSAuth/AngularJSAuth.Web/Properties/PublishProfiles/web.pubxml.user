@@ -10,7 +10,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="app/app.js">
-      <publishTime>05/11/2017 11:57:58</publishTime>
+      <publishTime>05/11/2017 15:26:05</publishTime>
     </File>
     <File Include="app/controllers/associateController.js">
       <publishTime>05/11/2017 10:44:10</publishTime>
@@ -40,7 +40,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/11/2017 11:56:52</publishTime>
     </File>
     <File Include="app/services/authService.js">
-      <publishTime>05/11/2017 12:03:54</publishTime>
+      <publishTime>05/11/2017 15:49:02</publishTime>
     </File>
     <File Include="app/services/ordersService.js">
       <publishTime>05/11/2017 12:04:00</publishTime>

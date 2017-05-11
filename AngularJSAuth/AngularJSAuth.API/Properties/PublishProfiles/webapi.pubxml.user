@@ -16,7 +16,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/11/2017 12:03:39</publishTime>
     </File>
     <File Include="bin/AngularJSAuth.API.dll">
-      <publishTime>05/11/2017 12:08:07</publishTime>
+      <publishTime>05/11/2017 15:23:39</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>02/22/2013 08:43:40</publishTime>
