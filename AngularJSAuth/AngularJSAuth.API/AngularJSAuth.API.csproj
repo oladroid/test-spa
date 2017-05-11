@@ -173,6 +173,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Asserts\RegisterHttpRequest.txt" />
+    <Content Include="Asserts\urls.txt" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -191,6 +192,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\webapi.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
